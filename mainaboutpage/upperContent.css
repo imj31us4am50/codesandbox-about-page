@@ -3,9 +3,6 @@
   font-weight: bold;
 }
 
-.container-of-desc {
-}
-
 @media screen and(max-width: 760px) {
   .for-about {
     flex-direction: column;

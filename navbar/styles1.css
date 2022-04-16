@@ -10,7 +10,7 @@ body {
 
 .Header {
   font-family: "Quicksand", sans-serif;
-  /* background: linear-gradient(to bottom right, #142e01, #84b835) no-repeat fixed; */
+  background: linear-gradient(to bottom right, #142e01, #84b835) no-repeat fixed;
   font-weight: bold;
   display: flex;
   flex-wrap: wrap;
