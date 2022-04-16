@@ -1,3 +1,9 @@
 .pope {
   background: linear-gradient(to bottom right, #142e01, #84b835) no-repeat fixed;
 }
+
+@media screen and(max-width: 760px) {
+  .for-about {
+    flex-direction: column;
+  }
+}
