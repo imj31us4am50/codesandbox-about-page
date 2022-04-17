@@ -7,15 +7,6 @@
   background: url("https://imj31us4am50.github.io/imgs/slow-loris.jpeg");
 }
 
-.collage {
-  width: fit-content;
-  margin: auto;
-}
-
-.the-image {
-  max-width: 100%;
-}
-
 @media screen and (max-width: 760px) {
   .for-about {
     flex-direction: column;
