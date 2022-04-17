@@ -9,6 +9,11 @@
   }
 }
 
-.container-of-pic {
-  max-width: 500px;
+.collage {
+  width: fit-content;
+  margin: auto;
+}
+
+.the-image {
+  max-width: 100%;
 }

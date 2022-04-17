@@ -9,8 +9,13 @@ export default function upperContent() {
             Despre <span className="green">Nature Smarter</span>
           </h1>
         </div>
-        <div className="container-of-pic w-100 bg-success">
-          <img src="https://imj31us4am50.github.io/imgs/animal-collage.png" />
+        <div className="other-container w-100 bg-success">
+          <div className="collage">
+            <img
+              src="https://imj31us4am50.github.io/imgs/animal-collage.png"
+              className="the-image"
+            />
+          </div>
         </div>
       </div>
     </div>
