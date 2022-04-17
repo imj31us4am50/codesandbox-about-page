@@ -24,7 +24,7 @@
 }
 
 .donate-a:hover {
-  font-size: 1.5rem;
+  font-size: inherit;
   color: white;
   opacity: 0.8;
 }
