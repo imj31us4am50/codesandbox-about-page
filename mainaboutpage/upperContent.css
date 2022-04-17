@@ -5,6 +5,7 @@
 
 .olqp {
   background: url("https://imj31us4am50.github.io/imgs/slow-loris.jpeg");
+  background-repeat: no-repeat;
   background-attachment: fixed;
 }
 
