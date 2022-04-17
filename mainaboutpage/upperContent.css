@@ -3,7 +3,7 @@
   font-weight: bold;
 }
 
-@media screen and(max-width: 760px) {
+@media screen and (max-width: 760px) {
   .for-about {
     flex-direction: column;
   }
