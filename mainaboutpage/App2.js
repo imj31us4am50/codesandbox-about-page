@@ -5,7 +5,7 @@ import UpperContent from "/mainaboutpage/upperContent.js";
 
 export default function App1() {
   return (
-    <div className="container-fluid pope">
+    <div className="container-fluid pope m-0 p-0">
       <UpperContent />
     </div>
   );

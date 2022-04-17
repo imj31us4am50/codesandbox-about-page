@@ -3,7 +3,7 @@ import upperContentCSS from "/mainaboutpage/upperContent.css";
 export default function upperContent() {
   return (
     <div
-      className="container-fluid m-0 p-0 d-flex pt-5 for-about"
+      className="container-fluid m-0 d-flex pt-5 for-about"
       style={upperContentCSS}
     >
       <div className="container-of-desc w-100">
