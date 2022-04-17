@@ -3,10 +3,8 @@
   font-weight: bold;
 }
 
-@media screen and (max-width: 760px) {
-  .for-about {
-    flex-direction: column;
-  }
+.for-about {
+  background: url("https://imj31us4am50.github.io/imgs/slow-loris.jpeg");
 }
 
 .collage {
@@ -16,4 +14,10 @@
 
 .the-image {
   max-width: 100%;
+}
+
+@media screen and (max-width: 760px) {
+  .for-about {
+    flex-direction: column;
+  }
 }
