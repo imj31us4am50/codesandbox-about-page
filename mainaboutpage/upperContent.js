@@ -16,8 +16,8 @@ export default function upperContent() {
         />
       </div>
       <div className="d-flex for-about pt-5">
-        <div className="first-cont p-3 mx-auto"></div>
-        <div className="second-cont p-3 mx-auto">
+        <div className="first-cont p-3 mx-auto text-center"></div>
+        <div className="second-cont p-3 mx-auto text-center">
           <br />
           <br />
           1st thing aboutaa about
