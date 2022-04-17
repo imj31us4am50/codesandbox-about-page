@@ -16,33 +16,22 @@ export default function upperContent() {
         />
       </div>
       <div className="d-flex for-about pt-5">
-        <div className="first-cont p-3 mx-auto text-center"></div>
-        <div className="second-cont p-3 mx-auto text-center">
-          <br />
-          <br />
-          1st thing aboutaa about
-          <br />
-          <br />
-          1st thing aboutaa about
-          <br />
-          <br />
-          1st thing aboutaa about
-          <br />
-          <br />
-          1st thing aboutaa about
-          <br />
-          <br />
-          1st thing aboutaa about
-          <br />
-          <br />v 1st thing aboutaa about
-          <br />
-          <br />
-          1st thing aboutaa about 1st thing aboutaa about
-          <br />
-          <br />v 1st thing aboutaa about
-          <br />
-          <br />
-          1st thing aboutaa about
+        <div className="first-cont p-3 mx-auto text-center w-100"></div>
+        <div className="second-cont p-3 mx-auto text-center w-100">
+          <div className="subtitle h1 pb-2 green">Misiunea noastră</div>
+          <div className="description h4 p-3 pb-5">
+            Suntem determinați să creem un mediu cât mai favorabil animalelor și
+            să le oferim ajutor celor în nevoie.
+            <br /> Cu ajutorul persoanelor care se implică, ori prin{" "}
+            <a href="#insertdonatelink" className="green h4 donate-a">
+              donații
+            </a>
+            , ori prin alte moduri, suntem capabili să facem acest lucru un vis
+            devenit realitate.
+            <br /> Dorim să informăm persoanele în legătură cu situația actuală,
+            dar în același timp să și educăm tinerii prin diverse materiale
+            educative.
+          </div>
         </div>
       </div>
     </div>
