@@ -19,9 +19,14 @@
   animation: opacity-fade 6s;
 }
 
+.donate-a {
+  transition: color 0.5s, opacity 0.5s;
+}
+
 .donate-a:hover {
-  font-size: 1.125rem;
-  text-decoration: underline;
+  font-size: 1.5rem;
+  color: white;
+  opacity: 0.8;
 }
 
 @keyframes opacity-fade {
