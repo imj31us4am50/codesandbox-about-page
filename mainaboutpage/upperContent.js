@@ -15,7 +15,7 @@ export default function upperContent() {
           className="animated-logo-about"
         />
       </div>
-      <div className="d-flex for-about pt-5">
+      <div className="d-flex for-about pt-3">
         <div className="first-cont p-3 mx-auto text-center w-100"></div>
         <div className="second-cont p-3 mx-auto text-center w-100">
           <div className="subtitle h1 pb-2 green">Misiunea noastră</div>
@@ -29,8 +29,9 @@ export default function upperContent() {
             , ori prin alte moduri, suntem capabili să facem acest lucru un vis
             devenit realitate.
             <br /> Dorim să informăm persoanele în legătură cu situația actuală,
-            dar în același timp să și educăm tinerii prin diverse materiale
-            educative.
+            dar în același timp să și educăm tinerii prin diverse materiale cu
+            informații despre diferite specii de animale existente și
+            problematica lor.
           </div>
         </div>
       </div>

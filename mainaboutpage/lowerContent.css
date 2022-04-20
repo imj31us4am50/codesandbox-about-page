@@ -1,2 +1,8 @@
 .lower-content {
 }
+
+.title-1-lower {
+  width: fit-content;
+  color: #81b73c;
+  font-weight: 900;
+}
