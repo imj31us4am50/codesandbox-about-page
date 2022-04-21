@@ -25,7 +25,8 @@ textarea:focus {
 }
 
 textarea {
-  max-height: 100px;
+  max-height: 150px;
+  min-height: 100px;
 }
 
 @media screen and (max-width: 760px) {

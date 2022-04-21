@@ -8,7 +8,7 @@ import QuestionForm from "/mainaboutpage/questionForm.js";
 
 export default function App1() {
   return (
-    <div className="container-fluid pope m-0 p-0">
+    <div className="container-fluid pope m-0 p-0 mb-5">
       <UpperContent />
       <LowerContent />
       <AskAQuestion />
