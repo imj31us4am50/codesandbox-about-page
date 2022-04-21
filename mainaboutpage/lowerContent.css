@@ -3,6 +3,17 @@
 
 .title-1-lower {
   width: fit-content;
-  color: #81b73c;
-  font-weight: 900;
+}
+
+.imageoffer {
+  max-width: 125px;
+}
+
+.container-of-icons-and-descs {
+}
+
+@media screen and (max-width: 760px) {
+  .container-of-icons-and-descs {
+    flex-direction: column;
+  }
 }
