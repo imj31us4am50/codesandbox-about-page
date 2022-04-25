@@ -3,7 +3,7 @@ import questionFormCSS from "/mainaboutpage/questionForm.css";
 export default function questionForm() {
   return (
     <div className="questionform mt-5 p-1 mx-auto" style={questionFormCSS}>
-      <form>
+      <form method="post">
         <div className="inputspart d-flex align-items-start">
           <div className="information-part p-4 w-100">
             <input
@@ -24,6 +24,7 @@ export default function questionForm() {
               placeholder="Mesajul tău"
               required
               className="messageinput d-block p-2 m-2"
+              spellcheck="false"
             ></textarea>
           </div>
         </div>
