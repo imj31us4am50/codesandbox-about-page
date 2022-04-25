@@ -6,7 +6,7 @@ export default function lowerContent() {
       className="container-fluid m-0 p-0 lower-content"
       style={lowerContentCSS}
     >
-      <div className="container-fluid title-1-lower mt-5 p-0 mx-auto h1">
+      <div className="container-fluid title-1-lower mt-5 p-0 mx-auto h1 text-center">
         Ce oferim
       </div>
       <div className="container-fluid container-of-icons-and-descs d-flex align-items-center m-0 pt-2">
